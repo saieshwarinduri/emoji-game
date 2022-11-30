@@ -1,0 +1,25 @@
+.contentcontainer {
+  background-image: linear-gradient(to bottom, #6a59ff, #fbc7d4);
+  padding: 10px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.ggggggggg {
+  height: 55%;
+  width: 95%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding-left: 0px;
+  border-radius: 12px;
+}
+@media (min-width: 768px) {
+  .ggggggggg {
+    height: 82%;
+    width: 47%;
+  }
+}

@@ -1,0 +1,39 @@
+.navbarrr {
+  width: 100%;
+  height: 55px;
+  background-color: #9796f0;
+  display: flex;
+  border-style: solid;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-width: 1px;
+}
+.logoOfsite {
+  height: 40px;
+}
+.scorecontainer {
+  display: flex;
+  color: white;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+}
+.scoreName {
+  font-weight: 500;
+  font-family: 'Roboto';
+  margin: 10px;
+}
+.Logocontainer {
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+  justify-content: center;
+  align-items: center;
+}
+.Enojiheading {
+  color: white;
+  font-weight: 600;
+  margin-right: 100px;
+}
